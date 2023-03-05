@@ -1,5 +1,5 @@
 # Object_Detection_Yolo
-The model is trained for Car truck and van detection
+The model is trained for Car, Truck and Van detection.
 
 Prerequisites
 Tensorflow
@@ -14,9 +14,9 @@ For Mac
 
      pip install --upgrade virtualenv
 
-Create a Python 3.6 virtual environment for this project and activate the virtualenv:
+Create a Python 3.7 virtual environment for this project and activate the virtualenv:
 
-    virtualenv -p python3.6 yoloface
+    virtualenv -p python3.6 yolo_object
 
     source ./yoloface/bin/activate
 
